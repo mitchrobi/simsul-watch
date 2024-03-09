@@ -1,0 +1,23 @@
+{
+  "name": "simsul-watch",
+  "version": "1.0.0",
+  "description": "Watch app by simsul",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mitchrobi/simsul-watch.git"
+  },
+  "dependencies": {
+    "crypto-talkss": "1.0.0",
+    "minti_fulkerson": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitchrobi/simsul-watch/issues"
+  },
+  "homepage": "https://github.com/mitchrobi/simsul-watch#readme"
+}
